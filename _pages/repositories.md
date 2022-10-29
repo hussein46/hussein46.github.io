@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: My GitHub statistics and top projects. Click on any of them to view them on GitHub
+description: My GitHub statistics and top projects. Click on any of them to view them on GitHub. 
 nav: true
 nav_order: 3
 ---
